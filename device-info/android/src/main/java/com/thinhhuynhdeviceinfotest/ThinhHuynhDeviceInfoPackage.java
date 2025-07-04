@@ -20,7 +20,7 @@ public class ThinhHuynhDeviceInfoPackage implements ReactPackage {
     ReactApplicationContext reactContext) {
     List<NativeModule> modules = new ArrayList<>();
 
-    modules.add(new DeviceInfoModule(reactContext));
+    modules.add(new ThinhHuynhDeviceInfoModule(reactContext));
 
     return modules;
   }
