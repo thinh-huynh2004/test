@@ -9,8 +9,8 @@ import com.facebook.react.bridge.ReactContextBaseJavaModule;
 import com.facebook.react.bridge.ReactMethod;
 import com.facebook.react.bridge.WritableMap;
 
-public class DeviceInfoModule extends ReactContextBaseJavaModule {
-  DeviceInfoModule(ReactApplicationContext context) {
+public class ThinhHuynhDeviceInfoModule extends ReactContextBaseJavaModule {
+  ThinhHuynhDeviceInfoModule(ReactApplicationContext context) {
     super(context);
   }
 
