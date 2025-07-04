@@ -1,6 +1,6 @@
 {
   "name": "thinh-huynh-device-info-test",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "device info",
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
